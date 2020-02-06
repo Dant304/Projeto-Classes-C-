@@ -1,0 +1,11 @@
+/home/daniel/Área de Trabalho/net/csharp/Dados/bin/Debug/netcoreapp3.1/Dados
+/home/daniel/Área de Trabalho/net/csharp/Dados/bin/Debug/netcoreapp3.1/Dados.deps.json
+/home/daniel/Área de Trabalho/net/csharp/Dados/bin/Debug/netcoreapp3.1/Dados.runtimeconfig.json
+/home/daniel/Área de Trabalho/net/csharp/Dados/bin/Debug/netcoreapp3.1/Dados.runtimeconfig.dev.json
+/home/daniel/Área de Trabalho/net/csharp/Dados/bin/Debug/netcoreapp3.1/Dados.dll
+/home/daniel/Área de Trabalho/net/csharp/Dados/bin/Debug/netcoreapp3.1/Dados.pdb
+/home/daniel/Área de Trabalho/net/csharp/Dados/obj/Debug/netcoreapp3.1/Dados.csprojAssemblyReference.cache
+/home/daniel/Área de Trabalho/net/csharp/Dados/obj/Debug/netcoreapp3.1/Dados.AssemblyInfoInputs.cache
+/home/daniel/Área de Trabalho/net/csharp/Dados/obj/Debug/netcoreapp3.1/Dados.AssemblyInfo.cs
+/home/daniel/Área de Trabalho/net/csharp/Dados/obj/Debug/netcoreapp3.1/Dados.dll
+/home/daniel/Área de Trabalho/net/csharp/Dados/obj/Debug/netcoreapp3.1/Dados.pdb
